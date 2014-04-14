@@ -1,4 +1,4 @@
-from api import MediaFireAPI
+from mediafire import MediaFireAPI
 import os, time
 from multiprocessing import *
 
